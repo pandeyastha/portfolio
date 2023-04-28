@@ -1,5 +1,5 @@
 import react from "react";
-import selfImage from "../assets/github.png";
+import selfImage from "../assets/portfolio/AsthaImage.jpg";
 import {MdOutlineKeyboardArrowRight as Arr}  from "react-icons/md";
 import { Link} from "react-scroll"
 
@@ -21,7 +21,7 @@ const Home = () => {
         px-4
         md:flex-row">
             <div className="flex flex-col justify-center h-full">
-                <h2 className="text-3xl sm:text-6xl font-bold text-white"> 
+                <h2 className="text-3xl sm:text-6xl font-bold text-white "> 
                     I am a Full Stack Developer 
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
@@ -52,7 +52,7 @@ const Home = () => {
                 <img src={selfImage} alt="selfImg" className="rounded-2xl
                 mx-auto
                 w-2/3
-                md:w-full"/>
+                md:w-1/2"/>
 
             </div>
         </div>     
