@@ -1,4 +1,4 @@
-import react from "react";
+
 import selfImage from "../assets/portfolio/AsthaImage.jpg";
 import {MdOutlineKeyboardArrowRight as Arr}  from "react-icons/md";
 import { Link} from "react-scroll"
