@@ -1,7 +1,7 @@
 import React from "react";
 import { FaGithub,FaLinkedin } from "react-icons/fa";
 import {HiOutlineMail} from "react-icons/hi";
-import {BsFillPersonLinesFill,BsInstagram} from "react-icons/bs"
+import {BsInstagram} from "react-icons/bs"
 
 const SocialLinks = () => {
     const links= [
@@ -22,7 +22,7 @@ const SocialLinks = () => {
                     Github  <FaGithub size ={30} />
                 </>
             ),
-            href: "https://www.github.com/",
+            href: "https://github.com/pandeyastha",
             
         },
         {

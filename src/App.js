@@ -3,9 +3,9 @@ import Home from "./components/Home";
 import NavBar from "./components/NavBar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-import Gap from "./components/Gap";
 import SocialLinks from "./components/SocialLinks";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -18,6 +18,8 @@ function App() {
       <Skills />
       <Contact/>
       <SocialLinks/>
+      <Footer />
+
     </div>
   );
 }

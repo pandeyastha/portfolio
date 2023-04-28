@@ -15,19 +15,25 @@ const About = () => {
                     About
                 </p>
             </div>
-            <p className="text-xl mt-8">I am an Avid problem-solver with a keen intrest in cutting edge technologies.I graduated in 2021 with a 
+            <p className="text-xl mt-6">I am an avid problem-solver with a keen intrest in cutting edge technologies.I graduated in 2021 with a 
             degree in Bachelor's of Technology in Computer Science and Engineering .</p>
             <br />
             <p className="text-xl">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad quia error vel dolorum eaque doloribus, 
-                iam omnis sapiente ullam consequuntur vitae reprehenderit illum dolores consectetur dolore, ducimus assumenda? Sunt quis suscipit consectetur hic ipsam aut, asperiores illum. Obcaecati veritatis omnis molestias, officiis tempore dignissimos veniam ea nesciunt, minus harum nisi cumque rerum non atque. Temporibus nisi deserunt rem est magni maiores, at commodi dolorum.
+            I am skilled in software development and Web Development. I have previously worked for 
+            Tata Consultancy Services as a software developer and have 
+            worked as an AR developer for School of Innovation by Meta. I'm proficient in data structures
+            and algorithms and can efficienly maintain your system resources by writing optimized code :)
+            Other than coding , i find myself inclined towards fashion, its history and symbolism. From coding to couture- I find 
+            joy in both worlds.
+            
+                
             </p>
             <button
                 className="
                 group
                 text-white w-fit
                  px-6 py-3 
-                 my-6 
+                 my-7
                  flex 
                  items-center
                  rounded-md 

@@ -70,9 +70,10 @@ const Skills = () => {
         },
         {
             id:10,
-            src: MongoDB,
-            title: 'MongoDB',
-            style: "shadow-green-500",
+            src: Mysql,
+            title: 'MySQL',
+            style: "shadow-orange-500",
+            
         },
         {
             id:11,
@@ -82,10 +83,11 @@ const Skills = () => {
         },
         {
             id:12,
-            src: Mysql,
-            title: 'MySQL',
-            style: "shadow-orange-500",
+            src: MongoDB,
+            title: 'MongoDB',
+            style: "shadow-green-500",
         },
+        
     ]
 
     return ( <div name="skills" 
@@ -100,7 +102,7 @@ const Skills = () => {
                 <br/>
                 <p className="text-5xl font-bold border-b-4 border-gray-500 p-2 inline ">
                     Skills</p>
-                <p className="py-6">These are the technologies I have worked with-</p>
+                <p className="py-8 text-xl">These are the technologies I have worked with-</p>
             </div>
             <div className="w-full grid grid-cols-2 sm:grid-cols-5 gap-8 text-center py-8 px-12 sm:px-0"
             >
@@ -111,7 +113,7 @@ const Skills = () => {
                     rounded-lg
                     ${skill.style}`}>
                        <img className="rounded-full"src={skill.src} alt="" />
-                    <div className="">  <p className="mt-4 text-bold"  >{skill.title}</p></div>
+                    <div className="">  <p className="mt-9 text-bold"  >{skill.title}</p></div>
                         
                      </div>
                     ))
