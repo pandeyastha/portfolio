@@ -8,6 +8,7 @@ const Home = () => {
     <div name="home" className="
     h-screen
     w-full
+    mt-400
     bg-gradient-to-b
     from-black
     via-black to-gray-800
@@ -20,7 +21,7 @@ const Home = () => {
         h-full
         px-4
         md:flex-row">
-            <div className="flex flex-col justify-center h-full">
+            <div className="flex flex-col justify-center h-full ">
                 <h2 className="text-3xl sm:text-6xl font-bold text-white "> 
                     I am a Full Stack Developer 
                 </h2>

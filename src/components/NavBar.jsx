@@ -43,12 +43,12 @@ const NavBar = () => {
             text-white
             bg-black fixed">
         <div>
-            <h1 className="text-5xl 
+           <h1 name="redirectHome" className="text-5xl 
             font-signature ml-2 
             cursor-pointer
             hover:scale-110
             duration-250">
-                Astha
+             <Link onClick={() => {}} to="home" smooth duration={500}>  Astha </Link> 
             </h1>
         </div>
         <ul className="hidden md:flex">

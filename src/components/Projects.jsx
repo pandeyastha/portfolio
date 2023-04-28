@@ -1,5 +1,5 @@
 import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg"
-import proj2 from "../assets/portfolio/installNode.jpg"
+import proj2 from "../assets/portfolio/Sociaux-de-paris.jpg"
 import proj3 from "../assets/portfolio/navbar.jpg"
 import proj4 from "../assets/portfolio/reactParallax.jpg"
 
@@ -41,7 +41,7 @@ const Projects = () => {
     md:h-full ">
         <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-centerw-full h-full">
             <div className="pb-8">
-                <p className="text-4xl font-bold inline border-b-4 border-gray-500">Projects</p>
+                <p className="text-5xl font-bold inline border-b-4 border-gray-500">Projects</p>
                 <p className="py-6">Check out some of my work right here</p>
             </div>
 

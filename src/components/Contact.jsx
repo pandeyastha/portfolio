@@ -5,7 +5,7 @@ const Contact = () => {
     to-gray-800 p-4 text-white">
         <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
             <div className="pb-8">
-                <p className="text-4xl font-bold inline border-b-4 border-gray-500">
+                <p className="text-5xl font-bold inline border-b-4 border-gray-500">
                     Contact</p>
                 <p className="py-6">Wanna discuss something cool? Spill the beans in the form and i'll reach out ASAP</p>
             </div>

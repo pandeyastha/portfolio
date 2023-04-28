@@ -98,7 +98,7 @@ const Skills = () => {
                 <br/>
                 <br/>
                 <br/>
-                <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline ">
+                <p className="text-5xl font-bold border-b-4 border-gray-500 p-2 inline ">
                     Skills</p>
                 <p className="py-6">These are the technologies I have worked with-</p>
             </div>
