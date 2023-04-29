@@ -1,5 +1,5 @@
 
-import selfImage from "../assets/portfolio/AsthaImage.jpg";
+import selfImage from "../assets/portfolio/AsthaImageCrop.jpg";
 import {MdOutlineKeyboardArrowRight as Arr}  from "react-icons/md";
 import { Link} from "react-scroll"
 
