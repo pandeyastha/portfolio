@@ -1,7 +1,7 @@
 import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg"
 import proj2 from "../assets/portfolio/Sociaux-de-paris.png"
 import proj3 from "../assets/portfolio/qrcodegen.png"
-import proj4 from "../assets/portfolio/reactParallax.jpg"
+import proj4 from "../assets/portfolio/My Portfolio website.png"
 
 
 const Projects = () => {
@@ -27,6 +27,8 @@ const Projects = () => {
         {
             id:4,
             src:proj4,
+            demo:"https://portfolio-asthapandey.vercel.app/",
+            code:"https://github.com/pandeyastha/portfolio"
         },
         {
             id:5,
