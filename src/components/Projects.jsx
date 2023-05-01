@@ -1,4 +1,4 @@
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg"
+import proj1 from "../assets/portfolio/airbnbclone.png"
 import proj2 from "../assets/portfolio/Sociaux-de-paris.png"
 import proj3 from "../assets/portfolio/qrcodegen.png"
 import proj4 from "../assets/portfolio/My Portfolio website.png"
@@ -8,7 +8,9 @@ const Projects = () => {
     const projects=[
         {
             id:1,
-            src:arrayDestruct
+            src:proj1,
+            demo:"www.google.com",
+            code: "https://github.com/pandeyastha/Go-BnB"
             
         },
         {
