@@ -16,7 +16,7 @@ const Projects = () => {
         {
             id:2,
             src:proj2,
-            demo: "https://chirp1-2-i5ibx4eoc-practicelc1-gmailcom.vercel.app/api/auth/error",
+            demo: "https://chirp1-2-i5ibx4eoc-practicelc1-gmailcom.vercel.app/",
             code: "https://github.com/pandeyastha/chirp1.2",
         },
         {
@@ -35,6 +35,9 @@ const Projects = () => {
         {
             id:5,
             src:proj2,
+            demo: "https://sociaux-de-paris.web.app/",
+            code: "https://github.com/pandeyastha/sociaux-de-paris",
+            
         },
         
         
