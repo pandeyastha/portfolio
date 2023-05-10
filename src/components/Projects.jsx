@@ -1,6 +1,6 @@
 import proj1 from "../assets/portfolio/airbnbclone.png"
 import proj2 from "../assets/portfolio/Sociaux-de-paris.png"
-import proj3 from "../assets/portfolio/qrcodegen.png"
+import proj3 from "../assets/portfolio/synthia.png"
 import proj4 from "../assets/portfolio/My Portfolio website.png"
 
 
@@ -22,8 +22,8 @@ const Projects = () => {
         {
             id:3,
             src:proj3,
-            demo:"https://qr-code-generator-lovat.vercel.app/",
-            code:"https://github.com/pandeyastha/Qr-Code-generator"
+            demo:"cynthia-asp.vercel.app",
+            code:"https://github.com/pandeyastha/Synthia"
 
         },
         {
