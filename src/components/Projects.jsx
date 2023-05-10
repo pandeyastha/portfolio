@@ -22,7 +22,7 @@ const Projects = () => {
         {
             id:3,
             src:proj3,
-            demo:"cynthia-asp.vercel.app",
+            demo:"https://cynthia-asp.vercel.app/",
             code:"https://github.com/pandeyastha/Synthia"
 
         },
