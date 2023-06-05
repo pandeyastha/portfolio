@@ -1,4 +1,5 @@
-import proj1 from "../assets/portfolio/airbnbclone.png"
+import proj1 from "../assets/portfolio/aphrodify.jpg"
+import proj11 from "../assets/portfolio/chirper.jpg"
 import proj2 from "../assets/portfolio/Sociaux-de-paris.png"
 import proj3 from "../assets/portfolio/synthia.png"
 import proj4 from "../assets/portfolio/My Portfolio website.png"
@@ -9,13 +10,13 @@ const Projects = () => {
         {
             id:1,
             src:proj1,
-            demo:"www.google.com",
-            code: "https://github.com/pandeyastha/Go-BnB"
+            demo:"https://next-aphrodify-astha.vercel.app/",
+            code: "https://github.com/pandeyastha/Aphrodify"
             
         },
         {
             id:2,
-            src:proj2,
+            src:proj11,
             demo: "https://chirp1-2-i5ibx4eoc-practicelc1-gmailcom.vercel.app/",
             code: "https://github.com/pandeyastha/chirp1.2",
         },
